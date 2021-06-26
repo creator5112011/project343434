@@ -1,0 +1,22 @@
+body {
+	background-color: #ffff8f;
+	text-align: center;
+	font-family: ,"Sacramento" cursive;
+	font-size: 30px;
+}
+div {
+	margin-top: 15px;
+}
+.image-section {
+	display: flex;
+	justify-content: center;
+}
+.section-style {
+	margin-right: 25px;
+	margin-left: 25px;
+	background-color: white;
+}
+p {
+	font-family: "Shadows Into Light", cursive;
+	font-size: 25px;
+}
